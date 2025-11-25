@@ -29,7 +29,7 @@
       "separateLinks": true,
       "visible": true,
       "id": "summary",
-      "content": "<ul><li><p>8+ years of experience delivering Microsoft 365 Power Platform solutions (Power Apps, Power Pages, Power BI, Power Automate, Dataverse).</p></li><li><p>Designed and delivered Microsoft Copilot Studio solutions to automate onboarding, case triage, and knowledge management.</p></li><li><p>Implemented Microsoft Copilot with Dataverse for federal customer to drive field operations. </p></li><li><p>Architected end-to-end Microsoft 365 and Dynamics 365 CE/CRM integrations with Power Platform and REST APIs.</p></li><li><p>Optimized business processes by embedding Microsoft Copilot agents into apps and portals, reducing manual workloads.</p></li><li><p>Developed scalable solutions using Azure Functions, Azure SQL Database, and custom connectors.</p></li><li><p>Led consulting engagements to capture requirements and translate them into Copilot-enhanced solution architectures.</p></li><li><p>Supported Agile (Scrum/Kanban) delivery models and maintained full SDLC and release management documentation.</p></li><li><p>Applied business process reengineering techniques to streamline workflows and enhance user adoption.</p></li><li><p>Proficient in MS Office Suite, Jira, Bitbucket, and experienced in technical writing and documentation.</p></li><li><p>Passionate about building AI-driven digital workplace solutions that improve employee engagement and customer experiences.</p></li></ul>"
+      "content": "<ul><li><p>10+ years designing Dynamics 365 CE/CRM and Power Platform solutions for federal agencies, including VA programs supporting millions of Veterans.</p></li><li><p>Architect enterprise integrations across Genesys Omnichannel, Azure App Services, SharePoint, and Dataverse to deliver secure, multi-channel case experiences.</p></li><li><p>Build managed/unmanaged solutions, Power Apps, Power Pages, and C#/.NET plugins that meet 508 compliance, performance, and security baselines.</p></li><li><p>Lead Agile DevSecOps teams from discovery through deployment, aligning stakeholders, translating requirements, and mentoring junior developers.</p></li><li><p>Hands-on with Power Automate, Power Fx, JavaScript, Liquid, Advanced Find, FetchXML, and XrmToolBox to extend Dynamics with minimal custom code.</p></li><li><p>Trusted advisor with active Public Trust eligibility; excels in remote collaboration, executive communication, and rapid troubleshooting.</p></li></ul>"
     },
     "awards": {
       "name": "Awards",
@@ -109,7 +109,7 @@
           "position": "Microsoft Power Platform Solution Architect",
           "location": " McLean, VA",
           "date": "August 2023 - Present",
-          "summary": "<ul><li><p>Designed and delivered enterprise-scale Power Platform solutions for a federal client managing a 100,000+ user Microsoft 365 tenant, enhancing governance and provisioning at scale.</p></li><li><p>Launched 25+ Canvas Apps as part of a self-service portal for M365, Power Platform, and Azure resource requests, reducing support ticket volume by 60%.</p></li><li><p>Automated end-to-end workflows with Power Automate, Azure Functions, and PowerShell, enforcing compliance across 10+ governance policies.</p></li><li><p>Integrated Microsoft Copilot to streamline request handling, provide real-time assistance, and reduce turnaround times by up to 10 business days.</p></li><li><p>Enabled live auditing and reporting of provisioning actions via Dataverse and Power BI, saving 120+ hours/month in manual tracking.</p></li><li><p>Developed Copilot-driven dashboards and reporting tools to support leadership decisions in procurement, operations, and performance management.</p></li><li><p>Authored 24+ technical guides and onboarding materials, improving user adoption and reducing support load.</p></li><li><p>Collaborated with federal stakeholders to align solution architecture with business goals, SDLC processes, and long-term platform strategy.</p></li></ul>",
+          "summary": "<ul><li><p>Principal architect for Dynamics 365 CE modernization at the Department of Veterans Affairs, delivering omnichannel case intake that connects Genesys Cloud, Power Apps, Power Pages, and SharePoint for secure document workflows.</p></li><li><p>Produced enterprise architecture views, interface specifications, and deployment runbooks covering Azure App Services, Dataverse, and legacy integrations to earn stakeholder approval and FedRAMP alignment.</p></li><li><p>Directed the build of managed/unmanaged solutions, model-driven apps, and custom C# plugins, introducing automated unit tests, Solution Checker gates, and code reviews to uphold quality.</p></li><li><p>Configured Business Units, Teams, and role-based security, plus Advanced Find/FetchXML-based monitoring to protect PII and enforce least-privilege access.</p></li><li><p>Orchestrated Power Automate flows, Azure Functions, and PowerShell scripts to normalize inbound data streams, improving reliability of 15+ integrations by 40%.</p></li><li><p>Led a distributed team of 7 developers, coaching junior engineers on XrmToolBox, liquid templating, and 508-compliant UI patterns within an Agile DevSecOps release cadence.</p></li><li><p>Resolved Sev1 production incidents within SLA by triaging telemetry, debugging plugin traces, and coordinating hotfix deployments through Azure DevOps pipelines.</p></li></ul>",
           "url": {
             "label": "",
             "href": ""
@@ -122,7 +122,7 @@
           "position": "Microsoft Power Platform Solution Architect",
           "location": "Reston, VA",
           "date": "Feb 2022 - Aug 2023 ",
-          "summary": "<ul><li><p>Designed and implemented a Power Platform-based contract order system for a federal agency, serving 30,000+ users and handling 100+ submissions monthly.</p></li><li><p>Built a Canvas App integrated with SharePoint to enable catalog browsing, cart building, and checkout, reducing manual processing time by 80%.</p></li><li><p>Enhanced system integration with a SQL-based backend using REST APIs, enabling secure, real-time transaction processing and multi-unit auditability.</p></li><li><p>Architected the solution for scalability, AI-readiness, and future Copilot integration to streamline user assistance and form generation.</p></li><li><p>Applied Agile practices to drive iterative releases and sprint planning with stakeholders, improving delivery speed by 20%.</p></li><li><p>Ensured system reliability with built-in data validations, automated error handling, and SDLC-compliant documentation.</p></li></ul>",
+          "summary": "<ul><li><p>Owned Dynamics 365 CE architecture for a federal procurement portfolio, mapping integrations with Omnichannel Customer Service, Azure Service Bus, and secure SharePoint document libraries.</p></li><li><p>Delivered Power Apps portals and Canvas Apps that synchronized with Genesys Engage call flows, surfacing caller context, SLA timers, and case history in real time.</p></li><li><p>Developed reusable .NET plugins, custom workflow activities, and Liquid templates to enforce business rules before persisting data to Dataverse.</p></li><li><p>Instituted ALM governance—branching, solution layering, managed package promotion, and automated deployments via Azure DevOps—to support multi-environment releases.</p></li><li><p>Partnered with PMs, BAs, QA, and release managers within an Agile DevSecOps cadence, prioritizing backlog items from discovery through production deployments.</p></li><li><p>Led Section 508 audits and remediation for model-driven forms and portal pages, ensuring compliance and veteran-friendly UX.</p></li></ul>",
           "url": {
             "label": "",
             "href": ""
@@ -135,7 +135,7 @@
           "position": "Microsoft Power Platform Consultant",
           "location": "Miami, FL",
           "date": "Jan 2019 - Feb 2022",
-          "summary": "<ul><li><p>Designed and delivered a Power Platform solution for Facebook’s Infrastructure division to track obsolescence across 10,000+ data center assets, improving inventory visibility and lifecycle management.</p></li><li><p>Built end-to-end system using Canvas Apps, Dataverse, Power Automate, and SharePoint, reducing manual tracking efforts and accelerating asset status updates.</p></li><li><p>Leveraged Microsoft 365 connectors to automate approvals, notifications, and reporting, cutting administrative overhead by 80%.</p></li><li><p>Partnered with cross-functional stakeholders to align solution design with operational requirements, increasing process efficiency and reducing data discrepancies.</p></li><li><p>Improved reporting and data accuracy for asset management, supporting better procurement and contract decisions across multiple infrastructure teams.</p></li></ul>",
+          "summary": "<ul><li><p>Implemented Dynamics 365 and Power Platform solutions for healthcare and infrastructure programs, emphasizing out-of-the-box configuration before introducing custom code.</p></li><li><p>Created Dataverse-based asset and service management models, Power Automate orchestrations, and Power BI telemetry that fed Azure Monitor dashboards.</p></li><li><p>Built custom connectors and RESTful APIs to interact with external CMDB, ERP, and ticketing systems while maintaining role-based access controls.</p></li><li><p>Crafted JavaScript, TypeScript, and Liquid customizations to enhance form UX, optimize field validations, and surface contextual guidance.</p></li><li><p>Documented architecture decisions, ERDs, and deployment guides to streamline handoffs across onshore/offshore delivery teams.</p></li></ul>",
           "url": {
             "label": "",
             "href": ""
@@ -148,7 +148,7 @@
           "position": "Microsoft Power Platform Engineer",
           "location": "McLean, VA",
           "date": "Jan 2016 - Jan 2019",
-          "summary": "<ul><li><p>Delivered Power Platform governance solutions for a federal client, streamlining contract oversight and supporting 100+ monthly transactions across procurement and operations teams.</p></li><li><p>Developed apps with advanced Azure SQL queries to drive interactive reporting in Power BI, accelerating data analysis cycles and enabling leadership to make faster, insight-driven decisions.</p></li><li><p>Automated 20+ data processing workflows using Power Automate and SharePoint, including the conversion of reports into CSV and PDF formats, saving hundreds of staff hours per quarter and improving compliance.</p></li><li><p>Integrated REST APIs to synchronize data between legacy systems and modern Power Platform components, enhancing cross-system accuracy.</p></li><li><p>Supported alignment with SDLC best practices by maintaining version-controlled deployment packages and collaborating with multi-agency teams during iterative releases.</p></li></ul>",
+          "summary": "<ul><li><p>Engineered Dynamics 365 entities, forms, and business process flows for federal contracting offices, mapping requirements with BAs and SMEs to align with procurement policies.</p></li><li><p>Wrote early C# plugins, custom workflow extensions, and JavaScript web resources to enforce validation logic and integrate with legacy SQL Server assets.</p></li><li><p>Administered security roles, field-level security, and Business Unit hierarchies to segregate duties across CONUS/OCO offices.</p></li><li><p>Automated ETL pipelines via SSIS, Azure SQL, and Power Automate to maintain inbound/outbound data streams and reduce manual reconciliation.</p></li><li><p>Maintained documentation, readiness checklists, and user training for nationwide rollouts; supported on-call rotations to resolve Tier-2 incidents.</p></li></ul>",
           "url": {
             "label": "",
             "href": ""
@@ -228,169 +228,113 @@
       "id": "skills",
       "items": [
         {
-          "id": "dde7any54bum0tlxod12yjr6",
+          "id": "skill-d365",
           "visible": true,
-          "name": "Canvas Apps",
+          "name": "Dynamics 365 CE/CRM Architecture",
           "description": "",
           "level": 0,
           "keywords": []
         },
         {
-          "id": "rljsivhnm28z5tp6vbiqsmj4",
+          "id": "skill-powerapps",
           "visible": true,
-          "name": "Model-Driven Apps",
+          "name": "Power Apps (Canvas & Model-driven)",
           "description": "",
           "level": 0,
           "keywords": []
         },
         {
-          "id": "jodij4ok3hr8gvqdh40jd1at",
+          "id": "skill-powerpages",
           "visible": true,
-          "name": "Power Automate",
+          "name": "Power Pages & Portals",
           "description": "",
           "level": 0,
           "keywords": []
         },
         {
-          "id": "g5voq76tdk8k6rcpsbgd01a4",
+          "id": "skill-automate",
           "visible": true,
-          "name": "Azure SQL",
+          "name": "Power Automate & Logic Apps",
           "description": "",
           "level": 0,
           "keywords": []
         },
         {
-          "id": "rd8w6e8bjjsegbz3ytvje1b0",
+          "id": "skill-plugins",
           "visible": true,
-          "name": "Powershell",
+          "name": "C#/.NET Plugins & Workflows",
           "description": "",
           "level": 0,
           "keywords": []
         },
         {
-          "id": "evr9djpdyfri3c3yqjb3w7rg",
+          "id": "skill-azure",
           "visible": true,
-          "name": "Power BI",
+          "name": "Azure Functions & App Services",
           "description": "",
           "level": 0,
           "keywords": []
         },
         {
-          "id": "ps3g263kauzocjhyeettnnp5",
+          "id": "skill-genesys",
           "visible": true,
-          "name": "CoPilot Studio",
+          "name": "Genesys Omnichannel CX",
           "description": "",
           "level": 0,
           "keywords": []
         },
         {
-          "id": "qocydu1t0i08pqwfcl4vbn24",
+          "id": "skill-sharepoint",
           "visible": true,
-          "name": "SharePoint",
+          "name": "SharePoint & Teams Integration",
           "description": "",
           "level": 0,
           "keywords": []
         },
         {
-          "id": "catfgda9lhm90f5sjeqqshbn",
+          "id": "skill-dataverse",
           "visible": true,
-          "name": "RESTful API",
+          "name": "Dataverse & Azure SQL",
           "description": "",
           "level": 0,
           "keywords": []
         },
         {
-          "id": "bau5fb6lmlhj66mykwm9sadp",
+          "id": "skill-js",
           "visible": true,
-          "name": "Dataverse",
+          "name": "JavaScript, TypeScript & Liquid",
           "description": "",
           "level": 0,
           "keywords": []
         },
         {
-          "id": "dncy56q29yjraank6ejilato",
+          "id": "skill-fetchxml",
           "visible": true,
-          "name": "Microsoft 365 Admin",
+          "name": "Advanced Find, FetchXML, XrmToolBox",
           "description": "",
           "level": 0,
           "keywords": []
         },
         {
-          "id": "gzol346nw0jqnsafvplchjmc",
+          "id": "skill-alm",
           "visible": true,
-          "name": "TypeScript",
+          "name": "Power Platform ALM / DevSecOps",
           "description": "",
           "level": 0,
           "keywords": []
         },
         {
-          "id": "dlknrww0rqs4cho38pl9esw4",
+          "id": "skill-508",
           "visible": true,
-          "name": "Azure Serverless Functions",
+          "name": "Section 508 Compliance",
           "description": "",
           "level": 0,
           "keywords": []
         },
         {
-          "id": "t3eb6gccdgzj6oqyan4taxn2",
+          "id": "skill-rest",
           "visible": true,
-          "name": "HTML/CSS",
-          "description": "",
-          "level": 0,
-          "keywords": []
-        },
-        {
-          "id": "em0su6js4487bda8vwpf95wr",
-          "visible": true,
-          "name": "UI/UX",
-          "description": "",
-          "level": 0,
-          "keywords": []
-        },
-        {
-          "id": "zq450q95x0z58tqhpwvethl1",
-          "visible": true,
-          "name": "Microsoft SQL Server 2016",
-          "description": "",
-          "level": 0,
-          "keywords": []
-        },
-        {
-          "id": "y385z63u3bvlhxc4intjicnr",
-          "visible": true,
-          "name": "Microsoft Windows Server 2016",
-          "description": "",
-          "level": 0,
-          "keywords": []
-        },
-        {
-          "id": "qrrxk8fwscodshzur4w7t55y",
-          "visible": true,
-          "name": "Jira",
-          "description": "",
-          "level": 0,
-          "keywords": []
-        },
-        {
-          "id": "v2nyoaptlyj26neejdzrpdpy",
-          "visible": true,
-          "name": "Bitbucket",
-          "description": "",
-          "level": 0,
-          "keywords": []
-        },
-        {
-          "id": "mww0cb81g8jntwif7l95eiby",
-          "visible": true,
-          "name": "AI model orchestration (Copilot Studio)",
-          "description": "",
-          "level": 0,
-          "keywords": []
-        },
-        {
-          "id": "cejzunjyzcee7qgj0c2dt9y2",
-          "visible": true,
-          "name": "Embedded Copilot experiences",
+          "name": "REST & Graph API Integration",
           "description": "",
           "level": 0,
           "keywords": []
