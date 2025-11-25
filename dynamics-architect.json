@@ -1,0 +1,457 @@
+{
+  "basics": {
+    "name": "Tariq Shafiq",
+    "headline": "Copilot/Power Platform Solution Architect",
+    "email": "tullahtek@gmail.com",
+    "phone": "+1 (703) 577-5922",
+    "location": "Virginia",
+    "url": {
+      "label": "",
+      "href": "https://www.linkedin.com/in/tariq-shafiq/"
+    },
+    "customFields": [],
+    "picture": {
+      "url": "",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<ul><li><p>8+ years of experience delivering Microsoft 365 Power Platform solutions (Power Apps, Power Pages, Power BI, Power Automate, Dataverse).</p></li><li><p>Designed and delivered Microsoft Copilot Studio solutions to automate onboarding, case triage, and knowledge management.</p></li><li><p>Implemented Microsoft Copilot with Dataverse for federal customer to drive field operations. </p></li><li><p>Architected end-to-end Microsoft 365 and Dynamics 365 CE/CRM integrations with Power Platform and REST APIs.</p></li><li><p>Optimized business processes by embedding Microsoft Copilot agents into apps and portals, reducing manual workloads.</p></li><li><p>Developed scalable solutions using Azure Functions, Azure SQL Database, and custom connectors.</p></li><li><p>Led consulting engagements to capture requirements and translate them into Copilot-enhanced solution architectures.</p></li><li><p>Supported Agile (Scrum/Kanban) delivery models and maintained full SDLC and release management documentation.</p></li><li><p>Applied business process reengineering techniques to streamline workflows and enhance user adoption.</p></li><li><p>Proficient in MS Office Suite, Jira, Bitbucket, and experienced in technical writing and documentation.</p></li><li><p>Passionate about building AI-driven digital workplace solutions that improve employee engagement and customer experiences.</p></li></ul>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "kxoxk5qzt5jo6yl390s14bcb",
+          "visible": true,
+          "name": "Microsoft Certified: Azure fundamentals",
+          "issuer": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "kh78jyfteupd7d4b57ksnkvn",
+          "visible": true,
+          "name": "Microsoft Certified: Power Platform Fundamentals",
+          "issuer": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "soak4kwy3ub3wvwo3v8jy8um",
+          "visible": true,
+          "institution": "George Mason University",
+          "studyType": "Information Technology B.S.",
+          "area": "Web Development & Programming",
+          "score": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "lnhgepunwlmcp45bkk7wyopg",
+          "visible": true,
+          "company": "Digital Consultants",
+          "position": "Microsoft Power Platform Solution Architect",
+          "location": " McLean, VA",
+          "date": "August 2023 - Present",
+          "summary": "<ul><li><p>Designed and delivered enterprise-scale Power Platform solutions for a federal client managing a 100,000+ user Microsoft 365 tenant, enhancing governance and provisioning at scale.</p></li><li><p>Launched 25+ Canvas Apps as part of a self-service portal for M365, Power Platform, and Azure resource requests, reducing support ticket volume by 60%.</p></li><li><p>Automated end-to-end workflows with Power Automate, Azure Functions, and PowerShell, enforcing compliance across 10+ governance policies.</p></li><li><p>Integrated Microsoft Copilot to streamline request handling, provide real-time assistance, and reduce turnaround times by up to 10 business days.</p></li><li><p>Enabled live auditing and reporting of provisioning actions via Dataverse and Power BI, saving 120+ hours/month in manual tracking.</p></li><li><p>Developed Copilot-driven dashboards and reporting tools to support leadership decisions in procurement, operations, and performance management.</p></li><li><p>Authored 24+ technical guides and onboarding materials, improving user adoption and reducing support load.</p></li><li><p>Collaborated with federal stakeholders to align solution architecture with business goals, SDLC processes, and long-term platform strategy.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ncbzy18um0eb5x013q9vvv10",
+          "visible": true,
+          "company": "PBG Consulting",
+          "position": "Microsoft Power Platform Solution Architect",
+          "location": "Reston, VA",
+          "date": "Feb 2022 - Aug 2023 ",
+          "summary": "<ul><li><p>Designed and implemented a Power Platform-based contract order system for a federal agency, serving 30,000+ users and handling 100+ submissions monthly.</p></li><li><p>Built a Canvas App integrated with SharePoint to enable catalog browsing, cart building, and checkout, reducing manual processing time by 80%.</p></li><li><p>Enhanced system integration with a SQL-based backend using REST APIs, enabling secure, real-time transaction processing and multi-unit auditability.</p></li><li><p>Architected the solution for scalability, AI-readiness, and future Copilot integration to streamline user assistance and form generation.</p></li><li><p>Applied Agile practices to drive iterative releases and sprint planning with stakeholders, improving delivery speed by 20%.</p></li><li><p>Ensured system reliability with built-in data validations, automated error handling, and SDLC-compliant documentation.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "qa5eslbnmvrqykufvrcj328l",
+          "visible": true,
+          "company": "Avicado",
+          "position": "Microsoft Power Platform Consultant",
+          "location": "Miami, FL",
+          "date": "Jan 2019 - Feb 2022",
+          "summary": "<ul><li><p>Designed and delivered a Power Platform solution for Facebook’s Infrastructure division to track obsolescence across 10,000+ data center assets, improving inventory visibility and lifecycle management.</p></li><li><p>Built end-to-end system using Canvas Apps, Dataverse, Power Automate, and SharePoint, reducing manual tracking efforts and accelerating asset status updates.</p></li><li><p>Leveraged Microsoft 365 connectors to automate approvals, notifications, and reporting, cutting administrative overhead by 80%.</p></li><li><p>Partnered with cross-functional stakeholders to align solution design with operational requirements, increasing process efficiency and reducing data discrepancies.</p></li><li><p>Improved reporting and data accuracy for asset management, supporting better procurement and contract decisions across multiple infrastructure teams.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "rcmyq95dzbxdl7ihyhfqfn14",
+          "visible": true,
+          "company": "Solutions By Design",
+          "position": "Microsoft Power Platform Engineer",
+          "location": "McLean, VA",
+          "date": "Jan 2016 - Jan 2019",
+          "summary": "<ul><li><p>Delivered Power Platform governance solutions for a federal client, streamlining contract oversight and supporting 100+ monthly transactions across procurement and operations teams.</p></li><li><p>Developed apps with advanced Azure SQL queries to drive interactive reporting in Power BI, accelerating data analysis cycles and enabling leadership to make faster, insight-driven decisions.</p></li><li><p>Automated 20+ data processing workflows using Power Automate and SharePoint, including the conversion of reports into CSV and PDF formats, saving hundreds of staff hours per quarter and improving compliance.</p></li><li><p>Integrated REST APIs to synchronize data between legacy systems and modern Power Platform components, enhancing cross-system accuracy.</p></li><li><p>Supported alignment with SDLC best practices by maintaining version-controlled deployment packages and collaborating with multi-agency teams during iterative releases.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "ll33f8yok033jlfqsj2qriu4",
+          "visible": true,
+          "name": "English",
+          "description": "",
+          "level": 5
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": []
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": []
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "dde7any54bum0tlxod12yjr6",
+          "visible": true,
+          "name": "Canvas Apps",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "rljsivhnm28z5tp6vbiqsmj4",
+          "visible": true,
+          "name": "Model-Driven Apps",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "jodij4ok3hr8gvqdh40jd1at",
+          "visible": true,
+          "name": "Power Automate",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "g5voq76tdk8k6rcpsbgd01a4",
+          "visible": true,
+          "name": "Azure SQL",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "rd8w6e8bjjsegbz3ytvje1b0",
+          "visible": true,
+          "name": "Powershell",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "evr9djpdyfri3c3yqjb3w7rg",
+          "visible": true,
+          "name": "Power BI",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "ps3g263kauzocjhyeettnnp5",
+          "visible": true,
+          "name": "CoPilot Studio",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "qocydu1t0i08pqwfcl4vbn24",
+          "visible": true,
+          "name": "SharePoint",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "catfgda9lhm90f5sjeqqshbn",
+          "visible": true,
+          "name": "RESTful API",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "bau5fb6lmlhj66mykwm9sadp",
+          "visible": true,
+          "name": "Dataverse",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "dncy56q29yjraank6ejilato",
+          "visible": true,
+          "name": "Microsoft 365 Admin",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "gzol346nw0jqnsafvplchjmc",
+          "visible": true,
+          "name": "TypeScript",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "dlknrww0rqs4cho38pl9esw4",
+          "visible": true,
+          "name": "Azure Serverless Functions",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "t3eb6gccdgzj6oqyan4taxn2",
+          "visible": true,
+          "name": "HTML/CSS",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "em0su6js4487bda8vwpf95wr",
+          "visible": true,
+          "name": "UI/UX",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "zq450q95x0z58tqhpwvethl1",
+          "visible": true,
+          "name": "Microsoft SQL Server 2016",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "y385z63u3bvlhxc4intjicnr",
+          "visible": true,
+          "name": "Microsoft Windows Server 2016",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "qrrxk8fwscodshzur4w7t55y",
+          "visible": true,
+          "name": "Jira",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "v2nyoaptlyj26neejdzrpdpy",
+          "visible": true,
+          "name": "Bitbucket",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "mww0cb81g8jntwif7l95eiby",
+          "visible": true,
+          "name": "AI model orchestration (Copilot Studio)",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "cejzunjyzcee7qgj0c2dt9y2",
+          "visible": true,
+          "name": "Embedded Copilot experiences",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "bronzor",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#2563eb"
+    },
+    "typography": {
+      "font": {
+        "family": "Open Sans",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 12
+      },
+      "lineHeight": 1.15,
+      "hideIcons": true,
+      "underlineLinks": false
+    },
+    "notes": ""
+  }
+}
