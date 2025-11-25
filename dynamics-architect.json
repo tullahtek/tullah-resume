@@ -4,11 +4,12 @@
     "headline": "Copilot/Power Platform Solution Architect",
     "email": "tullahtek@gmail.com",
     "phone": "+1 (703) 577-5922",
-    "location": "Virginia",
-    "url": {
-      "label": "",
-      "href": "https://www.linkedin.com/in/tariq-shafiq/"
+    "location": {
+      "city": "",
+      "region": "Virginia",
+      "country": "United States"
     },
+    "url": "https://www.linkedin.com/in/tariq-shafiq/",
     "customFields": [],
     "picture": {
       "url": "",
